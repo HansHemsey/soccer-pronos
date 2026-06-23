@@ -10,7 +10,7 @@ numpy==2.4.4
 pandas==3.0.2
 pyarrow==24.0.0
 pydantic==2.13.3
-pydantic-settings==2.14.0
+pydantic-settings==2.14.2
 PyYAML==6.0.3
 python-dotenv==1.2.2
 rich==15.0.0
